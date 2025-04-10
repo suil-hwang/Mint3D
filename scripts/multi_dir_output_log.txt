@@ -1,0 +1,111 @@
+Log for processing largest ID file in state_step dirs under: /Users/fool/Documents/mint/condor_files/solids_overflow
+Using mesh name from '../../ *.mesh' file.
+========================================
+
+--- Directory: /Users/fool/Documents/mint/condor_files/solids_overflow/2_3_21_29__augmented-dodecahedron_ss_1.00e+00_is_1.00e-08_o_1.00e-01_u_1.00e-05_vsc_1.00e-09_plane_1e-6_0.00e+00_bsdf/inner_iters/state_step (Mesh: augmented-dodecahedron) ---
+  [ID >= 50] File: conf_100086.json, Mesh: augmented-dodecahedron, EnergyPrimal: 1.963330e-05, CalculatedValue: 1.819891e-05, Data written to CSV.
+
+--- Directory: /Users/fool/Documents/mint/condor_files/solids_overflow/2_3_21_29__augmented-hexagonal-prism_ss_1.00e+00_is_1.00e-08_o_1.00e-01_u_1.00e-05_vsc_1.00e-09_plane_1e-6_0.00e+00_bsdf/inner_iters/state_step (Mesh: augmented-hexagonal-prism) ---
+  [ID >= 50] File: conf_100086.json, Mesh: augmented-hexagonal-prism, EnergyPrimal: 5.789476e-06, CalculatedValue: 1.003910e-05, Data written to CSV.
+
+--- Directory: /Users/fool/Documents/mint/condor_files/solids_overflow/2_3_21_29__cuboctahedron_ss_1.00e+00_is_1.00e-08_o_1.00e-01_u_1.00e-05_vsc_1.00e-09_plane_1e-6_0.00e+00_bsdf/inner_iters/state_step (Mesh: cuboctahedron) ---
+  [ID >= 50] File: conf_100086.json, Mesh: cuboctahedron, EnergyPrimal: 2.009949e-05, CalculatedValue: 2.204927e-05, Data written to CSV.
+
+--- Directory: /Users/fool/Documents/mint/condor_files/solids_overflow/2_3_21_29__elongated-triangular-orthobicupola_ss_1.00e+00_is_1.00e-08_o_1.00e-01_u_1.00e-05_vsc_1.00e-09_plane_1e-6_0.00e+00_bsdf/inner_iters/state_step (Mesh: elongated-triangular-orthobicupola) ---
+  [ID < 50] Logged filename: conf_100023.json
+
+--- Directory: /Users/fool/Documents/mint/condor_files/solids_overflow/2_3_21_29__gyroelongated-pentagonal-bicupola_ss_1.00e+00_is_1.00e-08_o_1.00e-01_u_1.00e-05_vsc_1.00e-09_plane_1e-6_0.00e+00_bsdf/inner_iters/state_step (Mesh: gyroelongated-pentagonal-bicupola) ---
+  [ID >= 50] File: conf_100086.json, Mesh: gyroelongated-pentagonal-bicupola, EnergyPrimal: 2.037386e-05, CalculatedValue: 1.990628e-05, Data written to CSV.
+
+--- Directory: /Users/fool/Documents/mint/condor_files/solids_overflow/2_3_21_29__gyroelongated-pentagonal-rotunda_ss_1.00e+00_is_1.00e-08_o_1.00e-01_u_1.00e-05_vsc_1.00e-09_plane_1e-6_0.00e+00_bsdf/inner_iters/state_step (Mesh: gyroelongated-pentagonal-rotunda) ---
+  [ID < 50] Logged filename: conf_100024.json
+
+--- Directory: /Users/fool/Documents/mint/condor_files/solids_overflow/2_3_21_29__metabiaugmented-dodecahedron_ss_1.00e+00_is_1.00e-08_o_1.00e-01_u_1.00e-05_vsc_1.00e-09_plane_1e-6_0.00e+00_bsdf/inner_iters/state_step (Mesh: metabiaugmented-dodecahedron) ---
+  [ID < 50] Logged filename: conf_100010.json
+
+--- Directory: /Users/fool/Documents/mint/condor_files/solids_overflow/2_3_21_29__octagonal-prism_ss_1.00e+00_is_1.00e-08_o_1.00e-01_u_1.00e-05_vsc_1.00e-09_plane_1e-6_0.00e+00_bsdf/inner_iters/state_step (Mesh: octagonal-prism) ---
+  [ID >= 50] File: conf_100086.json, Mesh: octagonal-prism, EnergyPrimal: 6.155242e-06, CalculatedValue: 1.054038e-05, Data written to CSV.
+
+--- Directory: /Users/fool/Documents/mint/condor_files/solids_overflow/2_3_21_29__triaugmented-dodecahedron_ss_1.00e+00_is_1.00e-08_o_1.00e-01_u_1.00e-05_vsc_1.00e-09_plane_1e-6_0.00e+00_bsdf/inner_iters/state_step (Mesh: triaugmented-dodecahedron) ---
+  [ID >= 50] File: conf_100086.json, Mesh: triaugmented-dodecahedron, EnergyPrimal: 2.624048e-05, CalculatedValue: 2.220269e-05, Data written to CSV.
+
+--- Directory: /Users/fool/Documents/mint/condor_files/solids_overflow/2_3_21_29__triaugmented-hexagonal-prism_ss_1.00e+00_is_1.00e-08_o_1.00e-01_u_1.00e-05_vsc_1.00e-09_plane_1e-6_0.00e+00_bsdf/inner_iters/state_step (Mesh: triaugmented-hexagonal-prism) ---
+  [ID < 50] Logged filename: conf_100026.json
+
+--- Directory: /Users/fool/Documents/mint/condor_files/solids_overflow/2_3_21_29__tridiminished-rhombicosidodecahedron_ss_1.00e+00_is_1.00e-08_o_1.00e-01_u_1.00e-05_vsc_1.00e-09_plane_1e-6_0.00e+00_bsdf/inner_iters/state_step (Mesh: tridiminished-rhombicosidodecahedron) ---
+  [ID >= 50] File: conf_100086.json, Mesh: tridiminished-rhombicosidodecahedron, EnergyPrimal: 1.764028e-05, CalculatedValue: 2.132554e-05, Data written to CSV.
+
+--- Directory: /Users/fool/Documents/mint/condor_files/solids_overflow/2_3_22_12__elongated-pentagonal-orthocupolarotunda_ss_1.00e+00_is_1.00e-08_o_1.00e-01_u_1.00e-05_vsc_1.00e-09_plane_1e-6_0.00e+00_bsdf/inner_iters/state_step (Mesh: elongated-pentagonal-orthocupolarotunda) ---
+  [ID >= 50] File: conf_100086.json, Mesh: elongated-pentagonal-orthocupolarotunda, EnergyPrimal: 2.256523e-05, CalculatedValue: 1.917592e-05, Data written to CSV.
+
+--- Directory: /Users/fool/Documents/mint/condor_files/solids_overflow/2_3_22_12__icosidodecahedron_ss_1.00e+00_is_1.00e-08_o_1.00e-01_u_1.00e-05_vsc_1.00e-09_plane_1e-6_0.00e+00_bsdf/inner_iters/state_step (Mesh: icosidodecahedron) ---
+  [ID >= 50] File: conf_100086.json, Mesh: icosidodecahedron, EnergyPrimal: 3.510439e-05, CalculatedValue: 2.047901e-05, Data written to CSV.
+
+--- Directory: /Users/fool/Documents/mint/condor_files/solids_overflow/2_3_22_13__elongated-pentagonal-orthobicupola_ss_1.00e+00_is_1.00e-08_o_1.00e-01_u_1.00e-05_vsc_1.00e-09_plane_1e-6_0.00e+00_bsdf/inner_iters/state_step (Mesh: elongated-pentagonal-orthobicupola) ---
+  [ID >= 50] File: conf_100086.json, Mesh: elongated-pentagonal-orthobicupola, EnergyPrimal: 1.461815e-05, CalculatedValue: 1.767397e-05, Data written to CSV.
+
+--- Directory: /Users/fool/Documents/mint/condor_files/solids_overflow/2_3_22_13__gyroelongated-pentagonal-cupolarotunda_ss_1.00e+00_is_1.00e-08_o_1.00e-01_u_1.00e-05_vsc_1.00e-09_plane_1e-6_0.00e+00_bsdf/inner_iters/state_step (Mesh: gyroelongated-pentagonal-cupolarotunda) ---
+  [ID >= 50] File: conf_100086.json, Mesh: gyroelongated-pentagonal-cupolarotunda, EnergyPrimal: 1.711326e-05, CalculatedValue: 1.692049e-05, Data written to CSV.
+
+--- Directory: /Users/fool/Documents/mint/condor_files/solids_overflow/2_3_22_14__augmented-sphenocorona_ss_1.00e+00_is_1.00e-08_o_1.00e-01_u_1.00e-05_vsc_1.00e-09_plane_1e-6_0.00e+00_bsdf/inner_iters/state_step (Mesh: augmented-sphenocorona) ---
+  [ID >= 50] File: conf_100086.json, Mesh: augmented-sphenocorona, EnergyPrimal: 2.033890e-05, CalculatedValue: 2.105452e-05, Data written to CSV.
+
+--- Directory: /Users/fool/Documents/mint/condor_files/solids_overflow/2_3_22_14__elongated-pentagonal-gyrobicupola_ss_1.00e+00_is_1.00e-08_o_1.00e-01_u_1.00e-05_vsc_1.00e-09_plane_1e-6_0.00e+00_bsdf/inner_iters/state_step (Mesh: elongated-pentagonal-gyrobicupola) ---
+  [ID >= 50] File: conf_100086.json, Mesh: elongated-pentagonal-gyrobicupola, EnergyPrimal: 1.946914e-05, CalculatedValue: 1.925825e-05, Data written to CSV.
+
+--- Directory: /Users/fool/Documents/mint/condor_files/solids_overflow/2_3_22_14__elongated-square-bipyramid_ss_1.00e+00_is_1.00e-08_o_1.00e-01_u_1.00e-05_vsc_1.00e-09_plane_1e-6_0.00e+00_bsdf/inner_iters/state_step (Mesh: elongated-square-bipyramid) ---
+  [ID >= 50] File: conf_100086.json, Mesh: elongated-square-bipyramid, EnergyPrimal: 2.027157e-05, CalculatedValue: 1.517647e-05, Data written to CSV.
+
+--- Directory: /Users/fool/Documents/mint/condor_files/solids_overflow/2_3_22_14__elongated-square-gyrobicupola_ss_1.00e+00_is_1.00e-08_o_1.00e-01_u_1.00e-05_vsc_1.00e-09_plane_1e-6_0.00e+00_bsdf/inner_iters/state_step (Mesh: elongated-square-gyrobicupola) ---
+  [ID >= 50] File: conf_100086.json, Mesh: elongated-square-gyrobicupola, EnergyPrimal: 2.723716e-05, CalculatedValue: 2.068716e-05, Data written to CSV.
+
+--- Directory: /Users/fool/Documents/mint/condor_files/solids_overflow/2_3_22_14__elongated-triangular-pyramid_ss_1.00e+00_is_1.00e-08_o_1.00e-01_u_1.00e-05_vsc_1.00e-09_plane_1e-6_0.00e+00_bsdf/inner_iters/state_step (Mesh: elongated-triangular-pyramid) ---
+  [ID >= 50] File: conf_100086.json, Mesh: elongated-triangular-pyramid, EnergyPrimal: 4.880511e-06, CalculatedValue: 1.072567e-05, Data written to CSV.
+
+--- Directory: /Users/fool/Documents/mint/condor_files/solids_overflow/2_3_22_14__gyrobifastigium_ss_1.00e+00_is_1.00e-08_o_1.00e-01_u_1.00e-05_vsc_1.00e-09_plane_1e-6_0.00e+00_bsdf/inner_iters/state_step (Mesh: gyrobifastigium) ---
+  [ID >= 50] File: conf_100086.json, Mesh: gyrobifastigium, EnergyPrimal: 5.800062e-06, CalculatedValue: 1.331370e-05, Data written to CSV.
+
+--- Directory: /Users/fool/Documents/mint/condor_files/solids_overflow/2_3_22_14__gyroelongated-pentagonal-birotunda_ss_1.00e+00_is_1.00e-08_o_1.00e-01_u_1.00e-05_vsc_1.00e-09_plane_1e-6_0.00e+00_bsdf/inner_iters/state_step (Mesh: gyroelongated-pentagonal-birotunda) ---
+  [ID >= 50] File: conf_100086.json, Mesh: gyroelongated-pentagonal-birotunda, EnergyPrimal: 3.000212e-05, CalculatedValue: 2.626321e-05, Data written to CSV.
+
+--- Directory: /Users/fool/Documents/mint/condor_files/solids_overflow/2_3_22_14__hexagonal-prism_ss_1.00e+00_is_1.00e-08_o_1.00e-01_u_1.00e-05_vsc_1.00e-09_plane_1e-6_0.00e+00_bsdf/inner_iters/state_step (Mesh: hexagonal-prism) ---
+  [ID >= 50] File: conf_100086.json, Mesh: hexagonal-prism, EnergyPrimal: 3.389710e-06, CalculatedValue: 6.948079e-06, Data written to CSV.
+
+--- Directory: /Users/fool/Documents/mint/condor_files/solids_overflow/2_3_22_14__icosahedron_ss_1.00e+00_is_1.00e-08_o_1.00e-01_u_1.00e-05_vsc_1.00e-09_plane_1e-6_0.00e+00_bsdf/inner_iters/state_step (Mesh: icosahedron) ---
+  [ID >= 50] File: conf_100086.json, Mesh: icosahedron, EnergyPrimal: 3.330454e-05, CalculatedValue: 1.869973e-05, Data written to CSV.
+
+--- Directory: /Users/fool/Documents/mint/condor_files/solids_overflow/2_3_22_14__metabidiminished-icosahedron_ss_1.00e+00_is_1.00e-08_o_1.00e-01_u_1.00e-05_vsc_1.00e-09_plane_1e-6_0.00e+00_bsdf/inner_iters/state_step (Mesh: metabidiminished-icosahedron) ---
+  [ID >= 50] File: conf_100086.json, Mesh: metabidiminished-icosahedron, EnergyPrimal: 2.348516e-05, CalculatedValue: 3.176848e-05, Data written to CSV.
+
+--- Directory: /Users/fool/Documents/mint/condor_files/solids_overflow/2_3_22_14__metabidiminished-rhombicosidodecahedron_ss_1.00e+00_is_1.00e-08_o_1.00e-01_u_1.00e-05_vsc_1.00e-09_plane_1e-6_0.00e+00_bsdf/inner_iters/state_step (Mesh: metabidiminished-rhombicosidodecahedron) ---
+  [ID >= 50] File: conf_100086.json, Mesh: metabidiminished-rhombicosidodecahedron, EnergyPrimal: 2.192044e-05, CalculatedValue: 2.294202e-05, Data written to CSV.
+
+--- Directory: /Users/fool/Documents/mint/condor_files/solids_overflow/2_3_22_14__pentagonal-bipyramid_ss_1.00e+00_is_1.00e-08_o_1.00e-01_u_1.00e-05_vsc_1.00e-09_plane_1e-6_0.00e+00_bsdf/inner_iters/state_step (Mesh: pentagonal-bipyramid) ---
+  [ID >= 50] File: conf_100086.json, Mesh: pentagonal-bipyramid, EnergyPrimal: 1.215982e-05, CalculatedValue: 1.399956e-05, Data written to CSV.
+
+--- Directory: /Users/fool/Documents/mint/condor_files/solids_overflow/2_3_22_14__rhombicosidodecahedron_ss_1.00e+00_is_1.00e-08_o_1.00e-01_u_1.00e-05_vsc_1.00e-09_plane_1e-6_0.00e+00_bsdf/inner_iters/state_step (Mesh: rhombicosidodecahedron) ---
+  [ID >= 50] File: conf_100086.json, Mesh: rhombicosidodecahedron, EnergyPrimal: 3.061162e-05, CalculatedValue: 2.137574e-05, Data written to CSV.
+
+--- Directory: /Users/fool/Documents/mint/condor_files/solids_overflow/2_3_22_14__square-antiprism_ss_1.00e+00_is_1.00e-08_o_1.00e-01_u_1.00e-05_vsc_1.00e-09_plane_1e-6_0.00e+00_bsdf/inner_iters/state_step (Mesh: square-antiprism) ---
+  [ID >= 50] File: conf_100086.json, Mesh: square-antiprism, EnergyPrimal: 8.040823e-06, CalculatedValue: 1.544800e-05, Data written to CSV.
+
+--- Directory: /Users/fool/Documents/mint/condor_files/solids_overflow/2_3_22_14__truncated-cube_ss_1.00e+00_is_1.00e-08_o_1.00e-01_u_1.00e-05_vsc_1.00e-09_plane_1e-6_0.00e+00_bsdf/inner_iters/state_step (Mesh: truncated-cube) ---
+  [ID >= 50] File: conf_100086.json, Mesh: truncated-cube, EnergyPrimal: 1.139911e-05, CalculatedValue: 9.717984e-06, Data written to CSV.
+
+--- Directory: /Users/fool/Documents/mint/condor_files/solids_overflow/2_3_22_14__truncated-icosidodecahedron_ss_1.00e+00_is_1.00e-08_o_1.00e-01_u_1.00e-05_vsc_1.00e-09_plane_1e-6_0.00e+00_bsdf/inner_iters/state_step (Mesh: truncated-icosidodecahedron) ---
+  [ID >= 50] File: conf_100086.json, Mesh: truncated-icosidodecahedron, EnergyPrimal: 3.125378e-05, CalculatedValue: 2.737575e-05, Data written to CSV.
+
+--- Directory: /Users/fool/Documents/mint/condor_files/solids_overflow/2_3_22_16__elongated-triangular-gyrobicupola_ss_1.00e+00_is_1.00e-08_o_1.00e-01_u_1.00e-05_vsc_1.00e-09_plane_1e-6_0.00e+00_bsdf/inner_iters/state_step (Mesh: elongated-triangular-gyrobicupola) ---
+  [ID >= 50] File: conf_100086.json, Mesh: elongated-triangular-gyrobicupola, EnergyPrimal: 1.903067e-05, CalculatedValue: 2.069715e-05, Data written to CSV.
+
+--- Directory: /Users/fool/Documents/mint/condor_files/solids_overflow/2_4_3_36__gyroelongated-pentagonal-rotunda_ss_1.00e+00_is_1.00e-08_o_1.00e-01_u_1.00e-05_vsc_1.00e-09_plane_1e-6_0.00e+00_bsdf/inner_iters/state_step (Mesh: gyroelongated-pentagonal-rotunda) ---
+  [ID >= 50] File: conf_100086.json, Mesh: gyroelongated-pentagonal-rotunda, EnergyPrimal: 1.306391e-05, CalculatedValue: 1.716685e-05, Data written to CSV.
+
+--- Directory: /Users/fool/Documents/mint/condor_files/solids_overflow/2_4_3_36__metabiaugmented-dodecahedron_ss_1.00e+00_is_1.00e-08_o_1.00e-01_u_1.00e-05_vsc_1.00e-09_plane_1e-6_0.00e+00_bsdf/inner_iters/state_step (Mesh: metabiaugmented-dodecahedron) ---
+  [ID >= 50] File: conf_100086.json, Mesh: metabiaugmented-dodecahedron, EnergyPrimal: 2.007946e-05, CalculatedValue: 2.121280e-05, Data written to CSV.
+
+--- Directory: /Users/fool/Documents/mint/condor_files/solids_overflow/2_4_3_36__triaugmented-hexagonal-prism_ss_1.00e+00_is_1.00e-08_o_1.00e-01_u_1.00e-05_vsc_1.00e-09_plane_1e-6_0.00e+00_bsdf/inner_iters/state_step (Mesh: triaugmented-hexagonal-prism) ---
+  [ID >= 50] File: conf_100086.json, Mesh: triaugmented-hexagonal-prism, EnergyPrimal: 2.344277e-05, CalculatedValue: 2.186450e-05, Data written to CSV.
+
+--- Directory: /Users/fool/Documents/mint/condor_files/solids_overflow/2_4_3_38__elongated-triangular-orthobicupola_ss_1.00e+00_is_1.00e-08_o_1.00e-01_u_1.00e-05_vsc_1.00e-09_plane_1e-6_0.00e+00_bsdf/inner_iters/state_step (Mesh: elongated-triangular-orthobicupola) ---
+  [ID >= 50] File: conf_100086.json, Mesh: elongated-triangular-orthobicupola, EnergyPrimal: 1.860436e-05, CalculatedValue: 1.927572e-05, Data written to CSV.

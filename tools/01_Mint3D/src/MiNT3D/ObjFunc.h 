@@ -1,0 +1,33 @@
+#pragma once
+
+#include <functional>
+#include <Eigen/Dense>
+#include <Eigen/Sparse>
+
+// class for objective function
+namespace MiNT3D {
+
+class ObjFunc 
+{
+public: 
+    // constructor/ destructor 
+    ObjFunc () {
+        obj_func_ = nullptr;
+    }
+
+    ~ObjFunc() = default;
+
+    // getter and setter for obj_func_
+    std::function<double(const Eigen::VectorXd&, Eigen::VectorXd*, Eigen::SparseMatrix<double>*, bool, double)> get_obj_func() {
+        return obj_func_;
+    }
+
+    void set_obj_func(std::function<double(const Eigen::VectorXd&, Eigen::VectorXd*, Eigen::SparseMatrix<double>*, bool, double)> obj_func) {
+        obj_func_ = obj_func;
+    }
+
+private:
+    std::function<double(const Eigen::VectorXd&, Eigen::VectorXd*, Eigen::SparseMatrix<double>*, bool, double)> obj_func_;
+};
+
+} // namespace Mint3D
