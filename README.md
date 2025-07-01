@@ -1,6 +1,6 @@
 This repository contains a reference implementation of the 🍀[paper](https://www.cs.utexas.edu/~josh/papers/Mint3d_final.pdf)🍀: 
 # Mint: Discretely Integrable Moments for Symmetric Frame Fields
-to be published in SGP 2025 proceedings. 
+published in SGP 2025 proceedings. 
 
 ![Mint3D teaser](/teaser.jpg "A menagerie")
 
